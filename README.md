@@ -1,5 +1,5 @@
 # Fusion
-A 2048 clone with a flavour of chemistry. Developed for a final year high school project. Written in Python using Pygame.
+A chemistry flavoured [2048](https://en.wikipedia.org/wiki/2048_(video_game)) clone. Developed for my final year high school project. Written in Python using Pygame.
 
 ## Development
 
