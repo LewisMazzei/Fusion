@@ -1,5 +1,5 @@
 # Fusion
-My final year high school project. A 2048 clone with a flavour of chemistry. Written in Python using Pygame.
+A 2048 clone with a flavour of chemistry. Developed for a final year high school project. Written in Python using Pygame.
 
 ## Development
 
