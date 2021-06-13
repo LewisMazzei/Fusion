@@ -1,7 +1,7 @@
 # Fusion
 My final year high school project. A 2048 clone with a flavour of chemistry. Written in Python using Pygame.
 
-Progression:
+## Development
 
 ![console display first](https://user-images.githubusercontent.com/17520107/31551971-6e7ea476-b036-11e7-8a96-dec4e27520b5.png)
 
